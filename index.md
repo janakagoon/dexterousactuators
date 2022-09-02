@@ -7,7 +7,7 @@
 
 ## Pitch Deck
 
-[![Ptich Deck PDF File](/assets/image/pitch-deck-thumbnail.png)](/assets/pdf/pitch-deck.pdf)
+[![Ptich Deck PDF File](/assets/image/pitch-deck-thumbnail.png)]({{ /assets/pdf/pitch-deck.pdf | relative_url}})
 
 ## Round, Funding and Financials
 
