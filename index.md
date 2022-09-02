@@ -72,13 +72,13 @@ Terms:
 
 For the robotic actuator to perform grips, we need to power the 17 motors in the arm in a coordinated manner.
 
-![Motor Controller Image](\assets\image\motor-controller.png)
+![Motor Controller Image](/assets/image/motor-controller.png)
 
 To enable this we built a programmable motor controller which can control up to 32 electric motors.
 
 We have provided the details of the contruction and programming of this device in this wiki on Github:
 
-[![Motor Controller Github Link](\assets\image\link.png)](https://github.com/janakagoon/kisa/wiki/How-To-Build-the-32-motor-Programmable-Motor-Controller)
+[![Motor Controller Github Link](/assets/image/link.png)](https://github.com/janakagoon/kisa/wiki/How-To-Build-the-32-motor-Programmable-Motor-Controller)
 
 ### Appendix D: Solution To The QR-Code Based Optical Configuration Detection Problem.
 
