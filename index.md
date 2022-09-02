@@ -7,7 +7,7 @@
 
 ## Pitch Deck
 
-[![Ptich Deck PDF File](/assets/image/pitch-deck-thumbnail.png)]({{ /assets/pdf/pitch-deck.pdf | relative_url}})
+[![Ptich Deck PDF File](/assets/image/pitch-deck-thumbnail.png)](https://janakagoon.github.io/dexterousactuators/assets/pdf/pitch-deck.pdf)
 
 ## Round, Funding and Financials
 
