@@ -1,0 +1,19 @@
+logo: /assets/image/DA-logo.png
+show_downloads: true 
+
+title: Dexterous Actuators
+email: info@dexterousactuator.com
+description:
+
+media_zip_url: /assets/media.zip
+video_url: /assets/video/ra-demo-reel-480.mp4
+deck_url: /assets/pdf/pitch-deck.pdf
+
+
+github:
+  is_project_page: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
