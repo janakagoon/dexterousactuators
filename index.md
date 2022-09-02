@@ -20,7 +20,7 @@ money will be used is show in the Google sheet below:
 
 | | |
 |-|-|
-|![Kitchen Helper](\assets\image\kitchen-small.png)|![Rescue Cat](\assets\image\cat-in-tree-small.png)|
+|![Kitchen Helper](/assets/image/kitchen-small.png)|![Rescue Cat](/assets/image/cat-in-tree-small.png)|
 
 ## Appendixes
 
